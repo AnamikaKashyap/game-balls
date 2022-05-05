@@ -1,7 +1,5 @@
 # game-balls
-
 https://anamikakashyap.github.io/game-balls/
-
 <!--
     NAME : Game Balls
     DATE : December 19, 2021
